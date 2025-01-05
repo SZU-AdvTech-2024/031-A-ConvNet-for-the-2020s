@@ -1,0 +1,11 @@
+@inproceedings{REPO031,
+    author = "Liu, Zhuang and Mao, Hanzi and Wu, Chao-Yuan and Feichtenhofer, Christoph and Darrell, Trevor and Xie, Saining",
+    booktitle = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    doi = "10.1109/CVPR52688.2022.01167",
+    keywords = "Computer vision;Image segmentation;Visualization;Computational modeling;Scalability;Semantics;Transformers;Deep learning architectures and techniques; Recognition: detection;categorization;retrieval; Representation learning",
+    number = "",
+    pages = "11966-11976",
+    title = "{A ConvNet for the 2020s}",
+    volume = "",
+    year = "2022"
+}
