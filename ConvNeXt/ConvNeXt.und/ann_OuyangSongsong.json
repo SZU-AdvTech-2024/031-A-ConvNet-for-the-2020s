@@ -1,0 +1,26 @@
+{
+    "ents": {
+        "@lengine.train_one_epoch@kyengine.train_one_epoch:./engine.py@f./engine.py": [
+            {
+                "author": "OuyangSongsong",
+                "body": "定义训练一次的逻辑代码",
+                "created": "2024-12-09T10:19:32.109Z",
+                "lastmodified": "Mon Dec 9 10:20:09 2024 GMT",
+                "line": "-1",
+                "lineContext": "",
+                "machineid": "B26BDD22C3217E13E83FE5042B060C9C66D211"
+            }
+        ],
+        "@lmain.main@kymain.main:./main.py@f./main.py": [
+            {
+                "author": "OuyangSongsong",
+                "body": "main函数实现了各种数据增强、优化器和损失函数等",
+                "created": "2024-12-09T10:23:54.346Z",
+                "lastmodified": "Mon Dec 9 10:24:26 2024 GMT",
+                "line": "-1",
+                "lineContext": "",
+                "machineid": "B26BDD22C3217E13E83FE5042B060C9C66D211"
+            }
+        ]
+    }
+}
